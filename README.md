@@ -1,6 +1,6 @@
 🚗 We Ride
 
-We Ride is a ride-sharing application designed to connect riders with nearby drivers quickly and safely. Mo
+We Ride is a ride-sharing application designed to connect riders with nearby drivers quickly and safely. 
 The goal of this project is to build a modern mobility platform similar to services like Uber and bolt
 
 ---
